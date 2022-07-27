@@ -1,5 +1,5 @@
 #include <stdio>
 int main()
 {
-	printf("");
+	printf("hellowrold");
 }
